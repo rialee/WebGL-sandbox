@@ -1,1 +1,1 @@
-# npm-testing
+# WebGL-sandbox
